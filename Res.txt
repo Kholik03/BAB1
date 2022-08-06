@@ -1,0 +1,5 @@
+Process modelling
+Application generation
+Testing and turnover
+
+https://folarium.co.id/articles/metode-pengembangan-software-rad-dan-protyping

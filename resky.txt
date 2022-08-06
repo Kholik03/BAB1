@@ -1,0 +1,18 @@
+Requirements Planning
+
+Analisa dilakukan untuk mencari kekurangan 
+dan kelemahan pada sistem yang sedang berjalan, 
+kemudian ditentukan sebuah solusi yang berguna 
+untuk mengatasi kekurangan dan kelemahan yang 
+ada untuk mengembangkan sistem baru yang lebih 
+efisien.
+
+Hasil yang diperoleh berdasarkan Analisa sistem
+1. Belum optimalnya proses pengarsipan data, 
+karena dilakukan di buku besar tamu.
+2. Belum adanya database untuk menyimpan 
+data tamu, sehingga keamanan data kurang 
+terjaga
+3. Informasi lanjutan yang tidak ada bagi tamu 
+yang sudah berkunjung.
+
